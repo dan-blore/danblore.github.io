@@ -8,8 +8,10 @@
 .image1 {
   position: fixed;
  bottom:70px;
-    left:0%;
-    max-width:  width: 100%;
+left:0%;
+      width: auto;
+  height: 100%;
+  max-height: 12vh;
     
     }
 
